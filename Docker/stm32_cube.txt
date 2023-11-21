@@ -1,0 +1,3 @@
+unzip en.st-stm32cubeide_1.13.2_18220_20230914_1601_amd64.deb_bundle.sh.zip
+chmod 744 st-stm32cubeide_1.13.2_18220_20230914_1601_amd64.deb_bundle.sh
+./st-stm32cubeide_1.13.2_18220_20230914_1601_amd64.deb_bundle.sh

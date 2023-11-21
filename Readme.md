@@ -1,4 +1,15 @@
-# Environment Setup for SDK and STM32Cube
+# Download the Source SDK and CUBE IDE
+
+## Download SDK source :
+dowload [here](https://www.st.com/en/embedded-software/stm32mp1dev.html#get-software) Yocto_SDKx86 v5.0.0 and save in STM32_Source.
+![](images/sdk.png)
+
+## Download Cube IDE source :
+download [here](https://www.st.com/en/development-tools/stm32cubeide.html#getsoftware-scroll) the STM32CubeIDE Debian Linux Installer v1.13.2 and save in STM32_Source.
+![](images/cube.png)
+
+
+# Environment Setup for SDK and STM32Cube for WSL2 Ubuntu 22.04
 
 
 ## 1. Grant Permission to Scripts
